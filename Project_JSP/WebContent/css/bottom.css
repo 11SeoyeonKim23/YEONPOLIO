@@ -1,0 +1,25 @@
+@charset "EUC-KR";
+
+.contact1{font-family: 'NanumSquare',sans-serif;
+    font-weight: 100;
+    font-size: 16pt;
+    color:#333;
+    margin:10pt;
+    float:left;
+}
+
+.contact2{font-family: 'NanumSquare',sans-serif;
+    font-weight: 100;
+    font-size: 14pt;
+    color:#333;
+    margin:10pt;
+    float:left;
+}
+
+.map{
+	float:right;
+	width:250px;
+	height:120px;
+	background:lightgray;
+	margin:10px;
+}

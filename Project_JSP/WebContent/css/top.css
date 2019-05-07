@@ -1,0 +1,31 @@
+@charset "EUC-KR";
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
+*{margin:0; padding:0;
+font-family: 'NanumSquare',sans-serif;
+}
+li{list-style:none;
+}
+p{
+    font-weight: 300;
+    font-size: 30pt;
+    color:#333;
+}
+img{
+	float:left;
+}
+.menu{
+	float:right;
+}
+.menu li{
+	float:left;
+}
+.menu a{
+	line-height:85px;
+	color:#000739;
+	padding: 0 15px;
+	display: block;
+}
+a{
+	text-decoration:none
+}
