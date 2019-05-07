@@ -8,6 +8,7 @@
 <title>ABOUT YEON</title>
 </head>
 <body>
+
 <br><br>
 	<div class="wrapper">
 			<div class="text">
