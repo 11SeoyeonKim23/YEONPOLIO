@@ -9,7 +9,7 @@
    	&nbsp;<a href="main.jsp"><img src="img/logo.png" width="300"/> 
      <ul class="menu">
       <li><a class="menu" href="aboutyeon.jsp">ABOUT YEON</a></li>
-      <li><a class="menu" href="#news">WORK PIECE</a></li>
+      <li><a class="menu" href="develop.jsp">WORK PIECE</a></li>
       <li><a class="menu" href="#contact">EXTERNAL ACTIVITY</a></li>
       <li><a class="menu" href="#contact">CONTACT</a></li>
     </ul>

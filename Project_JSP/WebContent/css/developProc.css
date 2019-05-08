@@ -1,0 +1,35 @@
+@charset "EUC-KR"; 
+
+*{margin:0; padding:0;
+font-family: 'NanumSquare',sans-serif;
+text-align:center;
+}
+
+.common{
+
+	font-size:20pt;
+
+}
+
+.empha{
+
+	font-size:25pt;
+
+}
+
+
+
+p{font-family: 'NanumSquare',sans-serif;
+
+    font-weight: 100;
+
+    font-size: 42pt;
+
+    color:#333;
+
+}
+
+img.border-shadow{
+    border:1px solid #888888;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
