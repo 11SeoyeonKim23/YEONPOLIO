@@ -26,7 +26,6 @@
     <br><br><br>
     
     <p style="font-size:30pt;">DEVELOPMENT WORK</font>
-    <br><br>
     <table width=1100 style="margin:auto; text-align:center;" >
     <tr><td colspan="2" height=170></td></tr>
     <td><img src="img/project_bb.png" class="border-shadow"></td>

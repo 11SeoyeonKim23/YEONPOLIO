@@ -11,7 +11,7 @@
       <li><a class="menu" href="aboutyeon.jsp">ABOUT YEON</a></li>
       <li><a class="menu" href="develop.jsp">WORK PIECE</a></li>
       <li><a class="menu" href="#contact">EXTERNAL ACTIVITY</a></li>
-      <li><a class="menu" href="#contact">CONTACT</a></li>
+      <li><a class="menu" href="contact.jsp">CONTACT</a></li>
     </ul>
    </body>
 </html>
